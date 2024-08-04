@@ -1,1 +1,2 @@
 # AIthical-Hub
+# aimug-pack
